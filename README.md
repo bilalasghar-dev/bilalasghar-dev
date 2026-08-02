@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Bilal Asghar
 
-<!--
-**bilalasghar-dev/bilalasghar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer
 
-Here are some ideas to get you started:
+Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+
+Tech Stack
+
+Featured Projects
+
+GitHub Stats
+
+Currently Learning
+
+Connect With Me
+
+Fun Facts
+
+Quote
