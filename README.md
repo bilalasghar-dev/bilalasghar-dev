@@ -112,7 +112,7 @@ School Management System developed during backend internship using Elixir and Ph
 **https://linkedin.com/in/bilal-aidev**
 
 💻 GitHub:
-**https://github.com/bilalasghar-dev**
+**https://bilalasghar-dev.github.io/portfolio/**
 
 ---
 
